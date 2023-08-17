@@ -6,13 +6,13 @@
 ![](https://github.com/Virendra-Verma/Handicraft-Project/blob/main/Screenshot/Home%20page%202.png?raw=true)
 ![](https://github.com/Virendra-Verma/Handicraft-Project/blob/main/Screenshot/Home%20page%203.png?raw=true)
 
-##Living&Dining
+## Living&Dining
 ![](https://github.com/Virendra-Verma/Handicraft-Project/blob/main/Screenshot/Living&Dining.png?raw=true)
 
-##Style
+## Style
 ![](https://github.com/Virendra-Verma/Handicraft-Project/blob/main/Screenshot/Style.png?raw=true)
 
-##Wall Decor
+## Wall Decor
 ![](https://github.com/Virendra-Verma/Handicraft-Project/blob/main/Screenshot/Wall%20Decor.png?raw=true)
 
 
